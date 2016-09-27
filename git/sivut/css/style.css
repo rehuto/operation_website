@@ -1,0 +1,162 @@
+body{
+    background-color:#222629;
+    font-family: 'Titillium Web', sans-serif!important;
+}
+
+#nav{
+    background-color:#222629;
+}
+.navbar{
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border: 0;
+    border-radius: 0;
+    margin-bottom: 0;
+    letter-spacing: 1px;
+}
+
+.navbar-nav li a:hover{
+    color: turquoise!important;
+}
+
+.navbar-nav a{
+    color: white!important;
+    font-weight: bold;
+    font-size:20px;
+}
+
+.navbar-brand{
+    color: white!important;
+}
+
+.active{
+    background-color: black;
+}
+
+p2#opening{
+    font-size:20px;
+    color: white;
+    letter-spacing: 1px;
+}
+
+p2#portfolio{
+    font-size:20px;
+    color: white;
+    letter-spacing: 1px;
+}
+
+p:hover {
+    color: turquoise!important;
+}
+
+
+#info{
+    background-color:#222629;
+}
+
+li{
+    font-size:16px;
+}
+
+h1#skills{
+    color:black;
+    text-decoration: underline;
+    font-weight: bold;
+    font-size:43px;  
+}
+
+h1#contact{
+    color:black;
+    text-decoration: underline;
+    font-weight: bold;
+    font-size:43px;  
+}
+
+h2#portfolio{
+    color:white;
+    text-decoration: underline;
+    font-size: 43px;
+    
+}
+
+h2#title{
+    color:white;
+    
+}
+
+#Portfolio{
+    background-color:#222629;
+}
+
+h2#title2{
+    color:black;
+    font-weight: bold;
+}
+
+p{
+   font-size:26px;
+   color:white;
+   font-weight: bold;
+}
+
+
+h5#minititle{ /* 6 h5s use the same minititle, xhtml-error */
+   color:black;
+    font-size:22px;
+    border-bottom: 1px solid black;
+    display:inline-block;
+}
+
+#teksti1{
+    padding-right: 30px;
+}
+
+#info{
+    padding-bottom: 20px;
+}
+
+#rehu{
+    width:280px;
+    height:330px;
+    box-shadow: 2px;
+}
+
+#footer{
+    text-align: center;
+    background-color: #222629;
+    color:white;
+    height:5em;
+    padding-top: 2em;
+}
+
+.circle{
+    width:11px;
+    height:11px;
+}
+
+.circleinfo{
+    width:11px;
+    height:11px;
+}
+
+ul {
+    list-style-type: none;
+}
+#links{
+    background-color: #222629;
+}
+
+.rounds:hover{
+    box-shadow:0 0 8px #bbb;
+}
+
+#cvlink{
+    font-size:34px;
+    text-decoration: underline;
+    color:white;
+}
+
+#cvlink:hover{
+    color: aquamarine;
+}
+
