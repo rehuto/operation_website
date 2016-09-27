@@ -20,7 +20,7 @@ body{
 }
 
 .navbar-nav a{
-    color: white!important;
+    color: dimgrey!important;
     font-weight: bold;
     font-size:20px;
 }
